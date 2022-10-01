@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
-<!--
-**AndreuSeg/AndreuSeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AndreuSeg/)](https://github.com/AndreuSeg/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/andreu-segu%C3%AD-6b830a145/)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=AndreuSeg)
 
-Here are some ideas to get you started:
+</div>
+<div align="center">
+<h1>Hi!, I'm <a href="https://github.com/Alexxm17">Alex</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About me
+
+* :moyai: Cyber Security Technician
+* :desktop_computer: OpenBootcamp
+
+### 🚀 Quick Stats
+
+<p>
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150" align="center"/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreuSeg&layout=compact&theme=dark&hide_border=true)
+</p>
