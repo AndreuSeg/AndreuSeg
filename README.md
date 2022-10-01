@@ -17,4 +17,6 @@
 * :moyai: Cyber Security Technician
 * :desktop_computer: OpenBootcamp
 
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreuSeg&theme=dark)]
+</p>
