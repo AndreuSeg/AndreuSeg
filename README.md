@@ -8,19 +8,17 @@
 
 </div>
 <div align="center">
-<h1>Hi!, I'm <a href="https://github.com/Alexxm17">Alex</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi!, I'm <a href="https://github.com/AndreuSeg">Andreu</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 </h1>
 </div>
 
-### 🌱 About me
+### About me
 
 * :moyai: Cyber Security Technician
 * :desktop_computer: OpenBootcamp
-
-### 🚀 Quick Stats
-
-<p>
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150" align="center"/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreuSeg&layout=compact&theme=dark&hide_border=true)
+</p>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxm17&layout=compact&theme=dark&hide_border=true)
 </p>
