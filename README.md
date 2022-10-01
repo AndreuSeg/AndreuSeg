@@ -16,9 +16,6 @@
 
 * :moyai: Cyber Security Technician
 * :desktop_computer: OpenBootcamp
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreuSeg&layout=compact&theme=dark&hide_border=true)
-</p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxm17&layout=compact&theme=dark&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreuSeg&layout=compact&theme=dark&hide_border=true)
 </p>
