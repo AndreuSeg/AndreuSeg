@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 Cyber Security student<br>💻 Studing Front-end in OpenBotcamp
+🖥 Cyber Security student<br>💻 Studing Front-end & Back-end in OpenBotcamp
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andreu_segui_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreu-seguí/) 
